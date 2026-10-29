@@ -58,7 +58,7 @@ import type { IconComponent } from "@sidekickicons/react-native";
 If you want to build the library yourself, you can do so by running:
 
 ```bash
-npm run build
+pnpm build
 ```
 
 This downloads the optimized SVGs from both icon repositories and generates the components.

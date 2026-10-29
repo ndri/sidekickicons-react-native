@@ -19,7 +19,7 @@
     "build": "node scripts/download-icons.mjs && node scripts/build-icons.mjs",
     "download-icons": "node scripts/download-icons.mjs",
     "build-icons": "node scripts/build-icons.mjs",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "pnpm build"
   },
   "files": [
     "16",
