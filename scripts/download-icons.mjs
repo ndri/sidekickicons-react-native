@@ -14,7 +14,7 @@ const TEMP_DIR = path.join(REPO_ROOT, "temp");
 const repos = [
   {
     url: "https://github.com/ndri/sidekickicons.git",
-    branch: "master",
+    branch: "main",
     optimizedPath: "optimized",
   },
   {
